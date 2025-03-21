@@ -174,11 +174,12 @@ If you have any questions, please feel free to reach me out at shallowdream555@g
 ## 📖 Citation
 If you find our work useful for your research, please consider citing our paper:
 ```
-@inproceedings{ai2024dreamclear,
+@article{ai2024dreamclear,
     title={DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation},
-    author={Yuang Ai and Xiaoqiang Zhou and Huaibo Huang and Xiaotian Han and Zhengyu Chen and Quanzeng You and Hongxia Yang},
-    booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-    year={2024},
-    url={https://openreview.net/forum?id=6eoGVqMiIj}
+    author={Ai, Yuang and Zhou, Xiaoqiang and Huang, Huaibo and Han, Xiaotian and Chen, Zhengyu and You, Quanzeng and Yang, Hongxia},
+    journal={Advances in Neural Information Processing Systems},
+    volume={37},
+    pages={55443--55469},
+    year={2024}
 }
 ```
